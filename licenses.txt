@@ -1,4 +1,4 @@
 # RCDetailer plugin licenses
 
-DistCircles code = FARHAN-123
+DistCircles code = UPF-123
 

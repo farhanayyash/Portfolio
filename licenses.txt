@@ -1,0 +1,8 @@
+# RCDetailer plugin licenses
+# Change the value after '=' to rotate the code for any plugin.
+
+DistCircles code = DistCircles-1
+
+# Future plugins go here, one line each:
+# UDitchDesigner code = UDitchDesigner-1
+# BOQBuilder     code = BOQBuilder-1

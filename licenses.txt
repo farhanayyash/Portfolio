@@ -1,6 +1,4 @@
 # RCDetailer plugin licenses
 
-DistCircles code = DistCircles-2
+DistCircles code = FARHAN-123
 
-# UDitchDesigner code = UDitchDesigner-1
-# BOQBuilder     code = BOQBuilder-1

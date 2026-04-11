@@ -1,4 +1,4 @@
 # RCDetailer plugin licenses
 
-DistCircles code = UPF
+DistCircles code = UPF1
 

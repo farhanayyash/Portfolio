@@ -1,4 +1,4 @@
 # RCDetailer plugin licenses
 
-DistCircles code = UPF1
+DistCircles code = AYYASH
 

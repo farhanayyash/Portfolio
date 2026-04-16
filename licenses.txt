@@ -1,6 +1,6 @@
 # RCDetailer plugin licenses
 
 DistCircles code = UPF-123
-ShopDrawings = UPF-111
+ShopDrawings = UPF-123
 
 

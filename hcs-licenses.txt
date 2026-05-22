@@ -1,19 +1,17 @@
 # HollowCoreSlab signed list — REV 20.1
-# Add a customer: insert a new 'allowed-fingerprint = …'
-# line, then run 'LicenseGen.exe signlist hcs-licenses.txt' to
-# refresh the signature below, then commit + push.
-#
-# Disable a customer: comment out their line (or move it to
-# 'revoked-fingerprint = …' for an instant kill, no grace).
-issued = 2026-05-22T14:44:36Z
+# Managed by LicenseGen.exe. Do not edit by hand —
+# any edit invalidates the signature below until
+# re-signed with `LicenseGen.exe signlist` or via
+# the License Manager UI.
+issued = 2026-05-22T15:01:46Z
 
 # ── active devices ───────────────────────────────────────────────
 allowed-fingerprint = 72BC81BD7D4D3DE3   # UPF-111
 allowed-fingerprint = F6441D55F06C26ED   # UPF-222
 allowed-fingerprint = 5FE08C811E19687C   # UPF-123
 allowed-fingerprint = DF201E418DAF8107   # FARHAN
-# allowed-fingerprint = 649F0E4CC116C9EA   # UPF-16 — REVOKED 2026-05-22
+allowed-fingerprint = 649F0E4CC116C9EA   # FARHAN
 
 # ── revoked devices / codes ──────────────────────────────────────
-revoked-fingerprint = 649F0E4CC116C9EA    # UPF-16 — TEST REVOCATION
-signature = ezEaya9RfhRJdEU4z0VprgEKuJhAZ6Wmjp7Ys5ukhQbHsLQ+GescbkGAtLQZLRiBFAIeRmXppQRcrXznumEbY9WJETjz6iI7LdSYXsKv92b8OaiJTDVFmZocDOy+bARfGS3CL2uVoPS7VlS2ylqCKwi0zeNbi9S3wT6oSOPXqLnnzFapXrwxOth/PZUuOiZSeOBEcyqpOL0rmnpah0FGtUnGwrRc4CZlYy8R2GGUeSX7G20lhErkGav7XDAl9BLohOqmPIQmfqfTmz2cUadV9X8fLhxKiQHy3VJ3k0LDwjUGK78DwF7HihA25ziKH+YK8adXn7pvkupI66czrfMAYA==
+# (none — no revocations currently in effect)
+signature = bxG34wBS+U6uAq6Fif+C0JOv2Z1WbNFkQVevwGSLetY82eD1oPB26qpfR3TSHkdXLbkyMAsLPQ6fAgtywWbVkRurcH+jGUedx8IQ4YagAfJmqLOv5pFq5VfT/UeRUnsVg9Zvwf+///2i1FfuHLbhB3SASy4KYf3kDcwXnNSywupVEfxo6f0WJ+Z5zcJrrCBIyqhERLXRhkDnaOV+PZ7Jc/QFORmXzgnz3eHyupoQWuRyQPg3vbfIiEsV7pkU2Sr79r9li9Aqvi/NLsgY7I3O90JFw2GosWeKK8s5QAZn+43MthjaT0iTXqmgjbklc6V5CIjRx/SNy24eL1z7oeHUtw==

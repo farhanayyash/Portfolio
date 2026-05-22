@@ -5,7 +5,7 @@
 #
 # Disable a customer: comment out their line (or move it to
 # 'revoked-fingerprint = …' for an instant kill, no grace).
-issued = 2026-05-22T14:17:02Z
+issued = 2026-05-22T14:36:23Z
 
 # ── active devices ───────────────────────────────────────────────
 allowed-fingerprint = 72BC81BD7D4D3DE3   # UPF-111
@@ -17,4 +17,4 @@ allowed-fingerprint = 649F0E4CC116C9EA   # UPF-16
 # ── revoked devices / codes (currently none) ─────────────────────
 # revoked-code        = HCS-OLDCUSTOMER-2024
 # revoked-fingerprint = ABCDEF0123456789
-signature = l2B6t5XPYOgjwOwjCTLmYQTa9hT3Qkv+JZvsADmoJ61k39KyC2pv8YQoHSnztnRlieNb7bhvk9ZYyAXScNRusKGXPbm4uZGgwTrWOp7FEuvMZfWHkvGcGnwCIu+0ZNoE0qBF+U5MFSPPWDtwUn8TjyiP+uETqdeGMhhPJZNf0HlB1pvQqgotZ/Txtg5GfMfaYzH11ITNgFXDNG8m7C+RKwSWlf40Bl39AfCtUTsolNzmwpB2M1PfOfFVhwNFO426qLjAqqdqAktg5CQ1pC6ignB281dWJCxxtWW3WHnGnzOwkPaUI2gpZeUORb0OYgzNhJEvrGF2wtBkK9DSKunEGQ==
+signature = IzIzRbl9iIDtfUPAJpIhUR3DwvTf3DxpHDnJixv9Du2miajsgEAS8lL9pGxZymTGTTjbNeVbbjaZEwd3ZLF8MMRq3ZzwvtCuMC2IeELukX6gqB1HeSstx6MCjubhuIVFNIkwcZhD1sPTHyuK67YrqMdORQZgzv26Y3mR32ASadE3Z52nFRU26JzGAJDKkqA0VP1AhhcAzWChUB9YW7HYMiizksVZwhFRMASm9Nd0Ea0eyqOtiZoQ6vMLXMmsT0qL3kTO5gSnD+CVbQbljKGojd/BFRAzb+ae33f8Dl2l+OcW6FkvgwAc5QgQphLD9K+0FHZPz+RDbUozgePm8/+vsg==

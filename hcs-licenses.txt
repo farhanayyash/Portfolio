@@ -3,7 +3,7 @@
 # any edit invalidates the signature below until
 # re-signed with `LicenseGen.exe signlist` or via
 # the License Manager UI.
-issued = 2026-05-22T15:37:45Z
+issued = 2026-06-30T08:59:58Z
 
 # ── active devices ───────────────────────────────────────────────
 allowed-fingerprint = 72BC81BD7D4D3DE3   # UPF-111
@@ -11,7 +11,8 @@ allowed-fingerprint = F6441D55F06C26ED   # UPF-222
 allowed-fingerprint = 5FE08C811E19687C   # UPF-FARHAN
 allowed-fingerprint = DF201E418DAF8107   # FARHAN
 allowed-fingerprint = 649F0E4CC116C9EA   # FARHAN
+allowed-fingerprint = 410B3318AC75ACE7   # SB-1
 
 # ── revoked devices / codes ──────────────────────────────────────
 # (none — no revocations currently in effect)
-signature = cpnOjpbKWHTOyZo8yOLOy/BO+2jKEK54kh0LO/6zbUoCAT6Vkml8FxcOyFXdmLZNl0Yw7O/e/AOV+FkaeAJz/J9IqVg2wIrgiEIkIPw2fmrmKNlfGYK2b5CbMsUrxHk9wJUbq0u6V+M7KCOP0lyTwga1E0b/Iaxf+qOYeHONJD24FCr5bILAPxvAtgDcfe8JhrzUTTWFtJe0YVYkWoC/+HQ6EY6/g/sfZpylzVthVuXF4YsZZ5vv7AznDqNpF5FxNSAgEpUic/mZIcUxBiNVoRNxy2YzFmwtgrv2+Gu6qIP1NosXaqxlFd9TBDEZsy7ukEk2hufNK/rDoH6S9eNh4Q==
+signature = QX38cltVFKqAqA2eZB5xfe4E6NpAp8jrqIQT4U0FYk77waYFeO+PZZ0KIj2wFkM3Lc1xULeS56a/GGtDMq0AVxDgh2SLwBi7RFGjOrXw02mp0RqeiEp34VRyAodH/166ZjOnucBVMQL6VyAgd4ctbl8pFV7n7/MWt0wGsYJi3mxBvvxm0TZe3/lidKwOFqMBR/J2WktH5Yl1vUE22O8o7IHV+rylcdv4n6U7ma1oMqnpheAvseULx9TXpiRLJ+Y213KAcsuqwTNb0WX4B+pBrEIV/dzInTNQoMEr9RY6pl8bDeUeBQk6wFuQyNYhBFPh4jDLltWYRf+U0n5xzr2TJw==
